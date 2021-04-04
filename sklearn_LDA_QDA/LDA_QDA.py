@@ -1,6 +1,6 @@
 # 使用pip install -U scikit-learn 安装sklearn库
 # 使用pip install numpy安装numpy库（可能内置）
-# QDA与QDF库：
+# QDA与LDA库：
 # https://scikit-learn.org/stable/modules/generated/sklearn.discriminant_analysis.LinearDiscriminantAnalysis.html#sklearn.discriminant_analysis.LinearDiscriminantAnalysis
 
 
