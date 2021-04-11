@@ -9,7 +9,7 @@ sklearn - LDA & QDA - https://scikit-learn.org/stable/modules/lda_qda.html#lda-q
 
 博客链接：
 
-QDA & LDA: https://mwhls.top/?p=1996
+QDA & LDA(基于sklearn库): https://mwhls.top/?p=1996
 
 QDF & LDF(不使用sklearn库): https://mwhls.top/2053.html
 
